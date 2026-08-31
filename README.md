@@ -353,6 +353,7 @@ Instead of simply collecting complaints, the platform analyzes, validates, prior
 # Contributors
 
 Developed for the Agentic AI Hackathon.
+Developed by Gargee Sharma
 
 ---
 
